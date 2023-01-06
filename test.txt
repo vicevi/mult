@@ -1,0 +1,7 @@
+[MULT]
+[200, 200]
+[BLACK, WHITE]
+
+stage {
+	rectangle(10, 10, 140, 64, RED, BLUE);
+}
